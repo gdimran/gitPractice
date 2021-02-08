@@ -1,3 +1,8 @@
 Hello This is git practice
 
 We have completed our first commit it's amazing
+
+
+we have learn a lot about git
+
+now we can start using git and github
